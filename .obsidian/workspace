@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "8f99ac76bac6932f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa032ea641ee2f83",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "daily/2020/07.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "55dc4983bff759f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "866c007d4f3b7bc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fe61cef07232116",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2e3a6a9cb1cb50fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          },
+          {
+            "id": "25fe380a096e7578",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "57080ef2d365c057",
+    "type": "split",
+    "children": [
+      {
+        "id": "97ba78a726fdeb9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e08a1a828b94aed7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          },
+          {
+            "id": "b083a0828c9de2d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "daily/2020/07.md",
+    "daily/2020-07.md",
+    "templates/daily.md",
+    "Test.md",
+    "Pasted image 1.png"
+  ]
+}

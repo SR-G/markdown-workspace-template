@@ -1,0 +1,26 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true,
+    "Audio recorder": true,
+    "Open with default app": true,
+    "Slides": true,
+    "Zettelkasten prefixer": true,
+    "Daily notes": true,
+    "Custom CSS": true,
+    "Starred": true,
+    "Page preview": true,
+    "Tag pane": true
+  },
+  "useTab": false,
+  "attachmentFolderPath": "resources",
+  "newFileLocation": "current",
+  "promptDelete": false
+}
